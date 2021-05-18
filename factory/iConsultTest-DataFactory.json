@@ -1,0 +1,9 @@
+{
+	"name": "iConsultTest-DataFactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5c9c8561-beb2-445c-9544-d414e879bc48",
+		"tenantId": "64491f81-ad77-4b24-8126-9249a2539a92"
+	}
+}
